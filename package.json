@@ -2,7 +2,7 @@
   "name": "express-locallibrary-tutorial",
   "version": "0.0.0",
   "engines": {
-    "node": "14.15.0"
+    "node": "v14.17.0"
   },
   "private": true,
   "scripts": {
@@ -12,16 +12,16 @@
   "dependencies": {
     "async": "^3.2.0",
     "compression": "^1.7.4",
-    "cookie-parser": "~1.4.4",
-    "debug": "^2.6.9",
-    "express": "~4.16.1",
+    "cookie-parser": "~1.4.5",
+    "debug": "^4.3.1",
+    "express": "~4.17.1",
     "express-validator": "^6.11.1",
     "helmet": "^4.6.0",
-    "http-errors": "~1.6.3",
+    "http-errors": "~1.8.0",
     "luxon": "^1.27.0",
-    "mongodb": "^3.6.3",
+    "mongodb": "^3.6.9",
     "mongoose": "^5.12.12",
-    "morgan": "~1.9.1",
-    "pug": "^2.0.0-beta11"
+    "morgan": "~1.10.0",
+    "pug": "^3.0.2"
   }
 }
