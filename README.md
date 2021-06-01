@@ -1,6 +1,8 @@
 # express-locallibrary-tutorial
 
-Site feito com Express/Node.js seguindo o "Tutorial para criar o site de uma Biblioteca Local" do MDN.
+Site do tutorial "Biblioteca Local" (MDN) escrito em Node / Express.
+
+Este aplicativo da web cria um catálogo online para uma pequena biblioteca local, onde os usuários podem navegar pelos livros disponíveis e gerenciar suas contas.
 
 ## Informações MDN
 
